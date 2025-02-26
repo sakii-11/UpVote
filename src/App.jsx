@@ -4,8 +4,8 @@ import Profile from "./pages/Profile";
 import Collaborate from "./pages/Collaborate";
 import Landing from "./pages/Landing";
 import Signup from "./pages/Signup";
-import PrivateRoute from "./components/PrivateRoute";
 import Login from "./pages/Login";
+import PrivateRoute from "./components/PrivateRoute";
 
 
 function App() {
