@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-grotesk:"Space Grotesk", "serif";
+  --font-garamond : "EB Garamond", "serif";
+  --font-sans : "DM Sans", "serif";
+  --breakpoint-3xl: 120rem;
+  --color-background: 224 71.4% 4.1%;
+  /* ... */
+}
