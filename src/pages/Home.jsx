@@ -1,7 +1,7 @@
 import Filter from "../components/Filter";
 import PostList from "../components/PostList";
 import Sidebar from "../components/Sidebar";
-import Topbar from "../components/topbar";
+import Topbar from "../components/Topbar";
 
 
 export default function Home() {
